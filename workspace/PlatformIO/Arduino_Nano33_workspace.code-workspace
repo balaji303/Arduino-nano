@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "001_LED_Blink"
+		},
+		{
+			"name": "002_Register_LED_Blink",
+			"path": "002_Register_LED_Blink"
+		},
+		{
+			"name": "003_RGB_LED_Blink",
+			"path": "003_RGB_LED_Blink"
+		},
+		{
+			"name": "004_Register_RGB_LED",
+			"path": "004_Register_RGB_LED"
+		}
+	],
+	"settings": {}
+}
