@@ -18,3 +18,17 @@ This repo has projects specifically designed for  Arduino Nano 33 BLE Sense Rev2
 - [MCU Datasheet](https://content.u-blox.com/sites/default/files/NINA-B3_DataSheet_UBX-17052099.pdf)
 - [MCU Product Summary](https://content.u-blox.com/sites/default/files/documents/NINA-B30_ProductSummary_UBX-17052930.pdf)
 - [NRF52840 Product Spec](https://github.com/balaji303/Arduino-nano/blob/main/docs/nRF52840_PS_v1.11.pdf)
+
+## Commands Used
+
+1. edge-impulse-daemon
+
+1. edge-impulse-daemon --clean
+Device "ArduinoNANO" is now connected to project "test1". To connect to another project, run `edge-impulse-daemon --clean`.
+
+1. To set up your development with Edge Impulse, run 'edge-impulse-daemon'
+To run your impulse on your development board, run 'edge-impulse-run-impulse'
+
+1. workspace\ArduinoIDE\arduino-nano-33-ble-sense>flash_windows.bat
+
+1. E:\GitHub\Arduino-nano\workspace\Libraries
